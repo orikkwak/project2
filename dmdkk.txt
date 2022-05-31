@@ -1,1 +1,6 @@
-asdks
+git remote add origin https://github.com/orikkwak/project2.git
+안녕하세요
+세상사람 모두들 안녕하세요~~
+오~'
+오~~
+안녕하세요 스위트 걸이에요~~
